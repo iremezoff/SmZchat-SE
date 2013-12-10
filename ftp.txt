@@ -1,0 +1,13 @@
+----
+    Сервер: u64981.ftp.masterhost.ru
+    Login: u64981 
+    Password: conglable4to
+
+MySQL:
+------
+    Server: u64981.mysql.masterhost.ru
+    DB: u64981   
+    User: u64981    
+    Password: p6tivermate
+
+    PHPMyAdmin: http://phpmyadmin.masterhost.ru/
